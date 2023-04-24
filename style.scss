@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #ddd;
+}
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+input {
+  padding: .3em;
+  width: 100%;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-bottom: .5em;
+  padding: .3em;
+}
+.line-through {
+  text-decoration: line-through;
+}
